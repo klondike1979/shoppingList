@@ -1,0 +1,23 @@
+#main {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #2196f3;
+	padding: 10px;
+}
+
+body {
+	display: grid;
+	/* grid-template-columns: 30%; */
+	align-items: center;
+	justify-content: center;
+	background-color: brown;
+	/* background-color: black;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center; */
+}
+
+#list {
+	background-color: rgb(123, 123, 153);
+}
